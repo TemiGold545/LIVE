@@ -1,12 +1,4 @@
 # LIVE
-#head{
-background-color: skyblue;
-width: 100%;
-height: 490px;
-align-content: ;
-text-align: center;
-color: lawngreen;
-}
 #main{
 background-color: seagreen;
 font-size: 1.4em;
